@@ -55,8 +55,6 @@ http://192.168.6.1:7088/udp/239.253.246.23:8000/
 http://192.168.6.1:7088/udp/239.253.246.24:8000/
 #EXTINF:-1 tvg-id="1431" tvg-name="山东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shaoer.png" group-title="地方",山东少儿
 http://192.168.6.1:7088/udp/239.253.246.25:8000/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",家有购物
-http://192.168.6.1:7088/udp/239.253.246.150:8000/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育",山东教育卫视
 http://192.168.6.1:7088/udp/239.253.246.59:8000/
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
@@ -151,7 +149,7 @@ http://192.168.6.1:7088/udp/239.253.246.69:8000/
 http://192.168.6.1:7088/udp/239.253.246.121:8000/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",爱体育
 http://192.168.6.1:7088/udp/239.253.246.109:8000/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱上4K测试体验
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",爱上4K测试体验
 http://192.168.6.1:7088/udp/239.253.246.102:8000/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",谍战剧场
 http://192.168.6.1:7088/udp/239.253.246.135:8000/
@@ -165,7 +163,7 @@ http://192.168.6.1:7088/udp/239.253.246.120:8000/
 http://192.168.6.1:7088/udp/239.253.246.152:8000/
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="影视",CHC动作电影
 http://192.168.6.1:7088/udp/239.253.246.153:8000/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",CHC高清电影
+#EXTINF:-1 tvg-id="6247" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="影视",CHC高清电影
 http://192.168.6.1:7088/udp/239.253.246.154:8000/
 #EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="体育",先锋乒羽
 http://192.168.6.1:7088/udp/239.253.246.155:8000/
@@ -235,11 +233,11 @@ http://192.168.6.1:7088/udp/239.253.246.213:8000/
 http://192.168.6.1:7088/udp/239.253.246.214:8000/
 #EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="特色",国学
 http://192.168.6.1:7088/udp/239.253.246.215:8000/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",星影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",星影
 http://192.168.6.1:7088/udp/239.253.246.216:8000/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色",早教
 http://192.168.6.1:7088/udp/239.253.246.217:8000/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家庭影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",家庭影院
 http://192.168.6.1:7088/udp/239.253.246.218:8000/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育",好学生
 http://192.168.6.1:7088/udp/239.253.246.219:8000/
