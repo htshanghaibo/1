@@ -324,6 +324,6 @@ http://192.168.6.1:7088/udp/239.253.246.253:8000/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",潍坊经济生活
 http://192.168.6.1:7088/udp/239.253.246.254:8000/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色",海看热播
-http://192.168.6.1:7088/udp/239.253.246.1094:8000/
+http://192.168.6.1:7088/udp/239.253.246.94:8000/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色",海洋频道
 http://192.168.6.1:7088/udp/239.253.246.67:8000/
