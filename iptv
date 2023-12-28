@@ -261,9 +261,9 @@ http://192.168.6.1:7088/udp/239.253.246.228:8000/
 http://192.168.6.1:7088/udp/239.253.246.229:8000/
 #EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下
 http://192.168.6.1:7088/udp/239.253.246.230:8000/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",热播剧场
+#EXTINF:-1 tvg-id="iptv热播剧场" tvg-name="iptv热播剧场" tvg-logo="" group-title="影视",热播剧场
 http://192.168.6.1:7088/udp/239.253.246.125:8000/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视",经典电影
+#EXTINF:-1 tvg-id="iptv经典电影" tvg-name="iptv经典电影" tvg-logo="" group-title="影视",经典电影
 http://192.168.6.1:7088/udp/239.253.246.126:8000/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿",少儿动画
 http://192.168.6.1:7088/udp/239.253.246.127:8000/
