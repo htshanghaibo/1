@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1,CCTV1
 http://192.168.6.1:7088/udp/239.253.246.77:8000/
 #EXTINF:-1,山东卫视
