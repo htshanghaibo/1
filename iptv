@@ -45,7 +45,7 @@ http://192.168.6.1:7088/udp/239.253.246.135:8000/
 http://192.168.6.1:7088/udp/239.253.246.152:8000/
 #EXTINF:-1 CHC动作电影 tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png"
 http://192.168.6.1:7088/udp/239.253.246.153:8000/
-#EXTINF:-1 CHC高清电影 tvg-logo="https://live.fanmingming.com/tvCHC高清电影/.png"
+#EXTINF:-1 CHC影迷电影 tvg-logo="https://live.fanmingming.com/tvCHC影迷电影/.png"
 http://192.168.6.1:7088/udp/239.253.246.154:8000/
 #EXTINF:-1 都市剧场 tvg-logo="https://live.fanmingming.com/tv/都市剧场.png"
 http://192.168.6.1:7088/udp/239.253.246.98:8000/
