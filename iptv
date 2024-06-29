@@ -135,29 +135,29 @@ http://192.168.6.1:7088/udp/239.253.246.65:8000
 http://192.168.6.1:7088/udp/239.253.246.115:8000
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="卫视频道",哈哈炫动
 http://192.168.6.1:7088/udp/239.253.246.63:8000
-#EXTINF:-1,newtv军旅剧场 tvg-logo="https://live.fanmingming.com/tv/军旅剧场.png"
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://live.fanmingming.com/tv/军旅剧场.png" group-title="影视频道",军旅剧场
 http://192.168.6.1:7088/udp/239.253.246.203:8000/
-#EXTINF:-1,newtv古装剧场 tvg-logo="https://live.fanmingming.com/tv/古装剧场.png"
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://live.fanmingming.com/tv/古装剧场.png" group-title="影视频道",古装剧场
 http://192.168.6.1:7088/udp/239.253.246.205:8000/
-#EXTINF:-1,武侠剧场 tvg-logo="https://live.fanmingming.com/tv/武侠剧场.png"
+#EXTINF:-1 tvg-name="武侠剧场" tvg-logo="https://live.fanmingming.com/tv/武侠剧场.png" group-title="影视频道",武侠剧场
 http://192.168.6.1:7088/udp/239.253.246.212:8000/
-#EXTINF:-1,热播剧场 tvg-logo="https://live.fanmingming.com/tv/热播剧场.png"
+#EXTINF:-1 tvg-name="热播剧场" tvg-logo="https://live.fanmingming.com/tv/热播剧场.png" group-title="影视频道",热播剧场
 http://192.168.6.1:7088/udp/239.253.246.125:8000/
-#EXTINF:-1,经典电影 tvg-logo="https://live.fanmingming.com/tv/经典电影.png"
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/经典电影.png" group-title="影视频道",经典电影
 http://192.168.6.1:7088/udp/239.253.246.126:8000/
-#EXTINF:-1,家庭影院 tvg-logo="https://live.fanmingming.com/tv/家庭影院.png"
+#EXTINF:-1 tvg-name="家庭影院" tvg-logo="https://live.fanmingming.com/tv/家庭影院.png" group-title="影视频道",家庭影院
 http://192.168.6.1:7088/udp/239.253.246.218:8000/
-#EXTINF:-1,喜剧影院 tvg-logo="https://live.fanmingming.com/tv/喜剧影院.png"
+#EXTINF:-1 tvg-name="喜剧影院" tvg-logo="https://live.fanmingming.com/tv/喜剧影院.png" group-title="影视频道",喜剧影院
 http://192.168.6.1:7088/udp/239.253.246.220:8000/
-#EXTINF:-1,动作影院 tvg-logo="https://live.fanmingming.com/tv/动作影院.png"
+#EXTINF:-1 tvg-name="动作影院" tvg-logo="https://live.fanmingming.com/tv/动作影院.png" group-title="影视频道",动作影院
 http://192.168.6.1:7088/udp/239.253.246.221:8000/
-#EXTINF:-1,爱综艺 tvg-logo="https://live.fanmingming.com/tv/爱综艺.png"
+#EXTINF:-1 tvg-name="爱综艺" tvg-logo="https://live.fanmingming.com/tv/爱综艺.png" group-title="影视频道",爱综艺
 http://192.168.6.1:7088/udp/239.253.246.129:8000/
-#EXTINF:-1,爱体育 tvg-logo="https://live.fanmingming.com/tv/爱体育.png"
+#EXTINF:-1 tvg-name="爱体育" tvg-logo="https://live.fanmingming.com/tv/爱体育.png" group-title="影视频道",爱体育
 http://192.168.6.1:7088/udp/239.253.246.131:8000/
-#EXTINF:-1,爱电影 tvg-logo="https://live.fanmingming.com/tv/爱电影.png"
+#EXTINF:-1 tvg-name="爱电影" tvg-logo="https://live.fanmingming.com/tv/爱电影.png" group-title="影视频道",爱电影
 http://192.168.6.1:7088/udp/239.253.246.128:8000/
-#EXTINF:-1,爱大剧 tvg-logo="https://live.fanmingming.com/tv/爱大剧.png"
+#EXTINF:-1 tvg-name="爱大剧" tvg-logo="https://live.fanmingming.com/tv/爱大剧.png" group-title="影视频道",爱大剧
 http://192.168.6.1:7088/udp/239.253.246.132:8000/
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://live.fanmingming.com/tv/山东齐鲁.png" group-title="地方频道",山东齐鲁
 http://192.168.6.1:7088/udp/239.253.246.114:8000/
@@ -175,5 +175,32 @@ http://192.168.6.1:7088/udp/239.253.246.23:8000/
 http://192.168.6.1:7088/udp/239.253.246.24:8000/
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="地方频道",山东少儿
 http://192.168.6.1:7088/udp/239.253.246.25:8000/
-#EXTINF:-1 tvg-name="潍坊新闻综合" tvg-logo="https://live.fanmingming.com/tv/潍坊新闻综合.png" group-title="地方频道",潍坊新闻综合
+#EXTINF:-1 tvg-name="潍坊综合" tvg-logo="https://live.fanmingming.com/tv/潍坊综合.png" group-title="地方频道",潍坊综合
 http://192.168.6.1:7088/udp/239.253.246.253:8000
+#EXTINF:-1 group-title="地方频道",高密 
+http://192.168.6.1:7088/udp/239.253.246.243:8000/
+#EXTINF:-1 group-title="地方频道",坊子
+http://192.168.6.1:7088/udp/239.253.246.244:8000/
+#EXTINF:-1 group-title="地方频道",青州文旅
+http://192.168.6.1:7088/udp/239.253.246.246:8000/
+#EXTINF:-1 group-title="地方频道",青州
+http://192.168.6.1:7088/udp/239.253.246.247:8000/
+#EXTINF:-1 group-title="地方频道",寿光
+http://192.168.6.1:7088/udp/239.253.246.248:8000/
+#EXTINF:-1 group-title="地方频道",诸城
+http://192.168.6.1:7088/udp/239.253.246.249:8000/
+#EXTINF:-1 group-title="地方频道",奎文
+http://192.168.6.1:7088/udp/239.253.246.250:8000/
+#EXTINF:-1 group-title="地方频道",昌乐
+http://192.168.6.1:7088/udp/239.253.246.251:8000/
+#EXTINF:-1 group-title="地方频道",寿光综合
+http://192.168.6.1:7088/udp/239.253.246.252:8000/
+#EXTINF:-1 group-title="地方频道",潍坊新闻
+http://192.168.6.1:7088/udp/239.253.246.253:8000/
+#EXTINF:-1 group-title="地方频道",潍坊经济生活
+http://192.168.6.1:7088/udp/239.253.246.254:8000/
+#EXTINF:-1 group-title="地方频道",海看热播
+http://192.168.6.1:7088/udp/239.253.246.94:8000/
+#EXTINF:-1 group-title="地方频道",海洋频道
+http://192.168.6.1:7088/udp/239.253.246.67:8000/
+
