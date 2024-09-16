@@ -245,21 +245,21 @@ http://192.168.6.1:7088/udp/239.253.246.228:8000/
 http://192.168.6.1:7088/udp/239.253.246.229:8000/
 #EXTINF:-1 group-title="地方频道",30 
 http://192.168.6.1:7088/udp/239.253.246.230:8000/
-#EXTINF:-1 group-title="地方频道",30 
-翡翠台,http://cdn5.1678520.xyz/live/?id=fct
-#EXTINF:-1 group-title="地方频道",30 
-翡翠台2,http://cdn3.1678520.xyz/live/?id=fct2
-#EXTINF:-1 group-title="地方频道",30 
-翡翠台北美版(TVB J1),https://cdn5.1678520.xyz/live/live2.1.php?id=j1
-#EXTINF:-1 group-title="TVB",PTVBlus
+#EXTINF:-1 group-title="TVB",翡翠台
+http://cdn5.1678520.xyz/live/?id=fct
+#EXTINF:-1 group-title="TVB",翡翠台2
+http://cdn3.1678520.xyz/live/?id=fct2
+#EXTINF:-1 group-title="TVB",翡翠台北美版(TVB J1)
+https://cdn5.1678520.xyz/live/live2.1.php?id=j1
+#EXTINF:-1 group-title="TVB",TVB Plus
 http://cdn5.1678520.xyz/live/?id=tvbp
 #EXTINF:-1 group-title="TVB", 龙华日韩
 http://cdn3.1678520.xyz/live/?id=lhrh
-#EXTINF:-1 group-title="TVB",30 HOY TV
+#EXTINF:-1 group-title="TVB",HOY TV
 http://cdn3.1678520.xyz/live/?id=hoy
-#EXTINF:-1 group-title="TVB",30 VIUTV
+#EXTINF:-1 group-title="TVB",VIUTV
 http://cdn12.1678520.xyz/live/?id=viu
-#EXTINF:-1 group-title="TVB",30 Viu剧集台
+#EXTINF:-1 group-title="TVB",Viu剧集台
 http://cdn12.1678520.xyz/live/?id=viu2
-#EXTINF:-1 group-title="TVB",30 Now星影台
+#EXTINF:-1 group-title="TVB",Now星影台
 http://cdn12.1678520.xyz/live/?id=xyt
