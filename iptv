@@ -39,16 +39,12 @@ http://192.168.6.1:7088/udp/239.253.246.153:8000
 http://192.168.6.1:7088/udp/239.253.246.152:8000
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="央视频道",CHC高清电影
 http://192.168.6.1:7088/udp/239.253.246.154:8000
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视-4K",CCTV4K
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视-4K",CCTV16-4K
-http://148.135.93.213:81/live.php?id=CCTV16-4K
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
-http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
-http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
-https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" http-user-agent="iPhone" group-title="卫视频道",凤凰资讯
+http://148.135.93.213:81/phenix.php?id=fhzx
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" http-user-agent="iPhone" group-title="卫视频道",凤凰中文
+http://148.135.93.213:81/phenix.php?id=fhzw
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" http-user-agent="iPhone" group-title="卫视频道",凤凰香港
+http://148.135.93.213:81/phenix.php?id=fhhk
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://192.168.6.1:7088/udp/239.253.246.85:8000
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -249,3 +245,21 @@ http://192.168.6.1:7088/udp/239.253.246.228:8000/
 http://192.168.6.1:7088/udp/239.253.246.229:8000/
 #EXTINF:-1 group-title="地方频道",30 
 http://192.168.6.1:7088/udp/239.253.246.230:8000/
+#EXTINF:-1 group-title="地方频道",30 
+翡翠台,http://cdn5.1678520.xyz/live/?id=fct
+#EXTINF:-1 group-title="地方频道",30 
+翡翠台2,http://cdn3.1678520.xyz/live/?id=fct2
+#EXTINF:-1 group-title="地方频道",30 
+翡翠台北美版(TVB J1),https://cdn5.1678520.xyz/live/live2.1.php?id=j1
+#EXTINF:-1 group-title="TVB",PTVBlus
+http://cdn5.1678520.xyz/live/?id=tvbp
+#EXTINF:-1 group-title="TVB", 龙华日韩
+http://cdn3.1678520.xyz/live/?id=lhrh
+#EXTINF:-1 group-title="TVB",30 HOY TV
+http://cdn3.1678520.xyz/live/?id=hoy
+#EXTINF:-1 group-title="TVB",30 VIUTV
+http://cdn12.1678520.xyz/live/?id=viu
+#EXTINF:-1 group-title="TVB",30 Viu剧集台
+http://cdn12.1678520.xyz/live/?id=viu2
+#EXTINF:-1 group-title="TVB",30 Now星影台
+http://cdn12.1678520.xyz/live/?id=xyt
