@@ -10,7 +10,7 @@ http://192.168.1.11:7088/udp/239.253.246.111:8000
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育 
 http://192.168.1.11:7088/udp/239.253.246.192:8000
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事 
-http://192.168.1.11.2:7088/udp/239.253.246.80:8000
+http://192.168.1.11:7088/udp/239.253.246.80:8000
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影 
 http://192.168.1.11:7088/udp/239.253.246.193:8000
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事 
