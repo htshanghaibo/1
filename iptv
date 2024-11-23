@@ -1300,7 +1300,7 @@ http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000335/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title="山东移动卫视",河北卫视
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000330/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title="山东移动卫视河南卫视
+#EXTINF:-1 group-title="山东移动卫视",河南卫视
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000358/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title="山东移动卫视",河南卫视 HEVC
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000369/index.m3u8?IASHttpSessionId=
