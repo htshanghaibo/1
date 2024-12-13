@@ -1118,7 +1118,7 @@ http://192.168.1.11:35455/itv/1000000001000024621.m3u8?cdn=ystenlive
 http://192.168.1.11:35455/itv/5000000004000006692.m3u8?cdn=bestzb
 #EXTINF:-1,tvg-id="湖南金鹰纪实" tvg-name="湖南金鹰纪实" tvg-logo="https://epg.v1.mk/logo/湖南金鹰纪实.png" group-title="卫视",湖南金鹰纪实
 http://192.168.1.11:35455/itv/5000000011000031203.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="湖南" tvg-name="湖南" tvg-logo="https://epg.v1.mk/logo/湖南.png" group-title="湖南",湖南快乐垂钓
+#EXTINF:-1,tvg-id="湖南" tvg-name="湖南" tvg-logo="https://epg.v1.mk/logo/湖南.png" group-title="卫视",湖南快乐垂钓
 http://192.168.1.11:35455/itv/5000000011000031206.m3u8?cdn=bestzb
 #EXTINF:-1,tvg-id="湖南茶频道" tvg-name="湖南茶频道" tvg-logo="https://epg.v1.mk/logo/湖南茶频道.png" group-title="卫视",湖南茶频道
 http://192.168.1.11:35455/itv/5000000011000031209.m3u8?cdn=bestzb
@@ -1158,7 +1158,7 @@ http://192.168.1.11:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 http://192.168.1.11:35455/itv/5000000011000031110.m3u8?cdn=bestzb
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://192.168.1.11:35455/itv/5000000004000007410.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="四川",四川卫视
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="卫视",四川卫视
 http://192.168.1.11:35455/itv/5000000004000006119.m3u8?cdn=bestzb
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
 http://192.168.1.11:35455/itv/5000000004000006827.m3u8?cdn=bestzb
@@ -1172,7 +1172,7 @@ http://192.168.1.11:35455/itv/1000000001000001096.m3u8?cdn=ystenlive
 http://192.168.1.11:35455/tptv/HD-10000k-1080P-fhchinese5s.m3u8
 #EXTINF:-1,tvg-id="凤凰卫视资讯" tvg-name="凤凰卫视资讯" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯.png" group-title="卫视",凤凰卫视资讯
 http://192.168.1.11:35455/tptv/HD-10000k-1080P-fhzixun5s.m3u8
-#EXTINF:-1,tvg-id="凤凰卫视香港" tvg-name="凤凰卫视香港" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港.png" group-title="香港",凤凰卫视香港
+#EXTINF:-1,tvg-id="凤凰卫视香港" tvg-name="凤凰卫视香港" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港.png" group-title="卫视",凤凰卫视香港
 http://192.168.1.11:35455/tptv/HD-10000k-1080P-fhhongkong5s.m3u8
 #EXTINF:-1,tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://epg.v1.mk/logo/华数4K.png" group-title="4K频道",华数-4K
 http://192.168.1.11:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
