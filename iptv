@@ -1050,7 +1050,7 @@ http://192.168.1.11:35455/itv/6000000001000004574.m3u8?cdn=wasusyt
 http://192.168.1.11:35455/ysptp/cctv7.m3u8
 #EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",cctv8-高码
 http://192.168.1.11:35455/ysptp/cctv8.m3u8
-EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",cctv9-高码
+#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",cctv9-高码
 http://192.168.1.11:35455/ysptp/cctv9.m3u8
 #EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",cctv10-高码
 http://192.168.1.11:35455/ysptp/cctv10.m3u8
